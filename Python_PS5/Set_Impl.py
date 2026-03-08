@@ -1,0 +1,21 @@
+input1 = int(input("Enter a number"))
+input2 = int(input("Enter a number"))
+input3 = int(input("Enter a number"))
+input4 = int(input("Enter a number"))
+input5 = int(input("Enter a number"))
+input6 = int(input("Enter a number"))
+input7 = int(input("Enter a number"))
+input8 = int(input("Enter a number"))
+
+
+s1 = set()
+s1.add(input1)
+s1.add(input2)
+s1.add(input3)
+s1.add(input4)
+s1.add(input5)
+s1.add(input6)
+s1.add(input7)
+s1.add(input8)
+
+print(s1)
