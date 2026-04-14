@@ -8,3 +8,5 @@ plt.title("Line Plot Example")
 plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
 plt.show()
+
+// Matplotlib example
