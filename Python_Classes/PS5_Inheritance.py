@@ -14,7 +14,9 @@ class Lamborghini(Car):
         self.selfDrive = selfDrive
 
     def ai_mode(self):
-        print("Lamborghini has AI-powered controls")car1 = Lamborghini(2, 2, "V12", True)
+        print("Lamborghini has AI-powered controls")
+        
+        car1 = Lamborghini(2, 2, "V12", True)
 
 car1.drive()
 car1.ai_mode()
