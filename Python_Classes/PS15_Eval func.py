@@ -1,3 +1,4 @@
+# Eval function is used to calculate string mathematical expressions
 a = eval("15+25") 
 print(a)
 
