@@ -1,3 +1,5 @@
+# Custom Exceptions
+
 class Error(Exception):
     pass
 class dobException(Error):
