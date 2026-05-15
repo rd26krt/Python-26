@@ -1,3 +1,4 @@
+# Exceptions
 try:
     a = 10
     b = 0
