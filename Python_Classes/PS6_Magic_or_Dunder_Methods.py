@@ -1,3 +1,4 @@
+# Magic methods
 class Car:
     def __new__(cls, doors, windows, engineType):
         print("The object has started getting created")
