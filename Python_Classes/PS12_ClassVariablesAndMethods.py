@@ -1,3 +1,4 @@
+# Class Variables & Methods
 class Car:
     basePrice = 100000
     def __init__(self, doors, windows, power):
