@@ -1,3 +1,4 @@
+# Static Methods in Python
 import datetime
 
 now = datetime.datetime.now()
