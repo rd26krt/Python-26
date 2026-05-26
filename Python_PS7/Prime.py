@@ -1,3 +1,4 @@
+# check prime
 num = int(input("Enter a number"))
 
 # count = 0
