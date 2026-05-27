@@ -1,3 +1,4 @@
+# List impl
 list = ["Rohan", "Rahul", "Sammmy", "Dino", "Rajat", "Saksham"]
 
 for i in range(1, len(list)):
