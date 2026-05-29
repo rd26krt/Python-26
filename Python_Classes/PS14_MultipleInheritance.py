@@ -1,3 +1,4 @@
+# Multiple Inheritance
 class A:
     def method1(self):
         print("A class method1 called")
