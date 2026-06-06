@@ -11,7 +11,7 @@ list2[2] = 98
 
 print(list1)
 print(list2)
-print("----------shallow copy---------------")
+print("----------shallow copy----------------")
 # shallow copy 
 
 list3 = [1,2,3,4,5]
