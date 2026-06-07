@@ -41,7 +41,7 @@ print(listt4)
 listt4[1] = 20
 print(listt3)
 print(listt4)
-print("----------Deep copy in nested list---------------")
+print("----------Deep copy in a nested list---------------")
 
 listt5 = [[1,2,3,4,5],[6,7,8,9,10]]
 listt6 = copy.deepcopy(listt5)
