@@ -1,3 +1,4 @@
+# is vs ==
 list1  = ["Rishikesh", "Somanth", "Ujjain", "Kashi"]
 list2  = ["Rishikesh", "Somanth", "Ujjain", "Kashi"]
 
