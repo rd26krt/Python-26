@@ -1,3 +1,4 @@
+# Hindi Translation
 Dict1 = {"नमस्ते" : "Hello/Greetings",
          "धन्यवाद": "Thank You",
          "कृपया": "Please",
