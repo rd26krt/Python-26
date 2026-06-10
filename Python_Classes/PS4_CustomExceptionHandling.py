@@ -1,4 +1,4 @@
-# Custom Exceptions
+# Custom Exceptionss
 
 class Error(Exception):
     pass
