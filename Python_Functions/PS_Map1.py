@@ -1,3 +1,4 @@
+# Map in python
 def even_odd(num):
     if(num%2 ==0):
         print("{} is a even number".format(num))
